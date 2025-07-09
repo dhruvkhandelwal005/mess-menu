@@ -1,0 +1,200 @@
+{
+  "MONDAY": {
+    "BREAKFAST": [
+      "IDLI SAMBHAR, CHUTNEY",
+      "MILK",
+      "TEA",
+      "BREAD, BUTTER, JAM",
+      "FRUIT"
+    ],
+    "LUNCH": [
+      "AALU MUTTER MASALA",
+      "DAL TADKA",
+      "CHAPATI",
+      "RICE NORMAL",
+      "SALAD, ACHAR, PAPAD",
+      "CHACH"
+    ],
+    "SNACKS": [
+      "PAV BHAJI/WADA PAV",
+      "TEA"
+    ],
+    "DINNER": [
+      "LAUKI-CHANA/MASALA BHINDI",
+      "DAL MAKHANI",
+      "CHAPATI",
+      "JEERA RICE",
+      "SALAD, ACHAR"
+    ]
+  },
+  "TUESDAY": {
+    "BREAKFAST": [
+      "AALU PARATHA",
+      "MILK",
+      "TEA",
+      "BREAD, BUTTER, JAM",
+      "CURD",
+      "SPROUTS"
+    ],
+    "LUNCH": [
+      "DESI CHANA",
+      "DAL",
+      "CHAPATI",
+      "MUTTER RICE",
+      "SALAD, PAPAD, ACHAR"
+    ],
+    "SNACKS": [
+      "POHA SEV",
+      "TEA"
+    ],
+    "DINNER": [
+      "AALU METHI/BARBATI AALU",
+      "CHANA DAL",
+      "RICE",
+      "CHAPATI",
+      "SALAD, ACHAR",
+      "SUJI HALWA / FRUIT CUSTARD"
+    ]
+  },
+  "WEDNESDAY": {
+    "BREAKFAST": [
+      "UTTAPAM, SAMBHAR, CHATNI",
+      "MILK",
+      "TEA",
+      "BREAD, BUTTER, JAM",
+      "FRUIT"
+    ],
+    "LUNCH": [
+      "KADI PAKODA",
+      "AALU GAJAR",
+      "CHAPATI",
+      "VEG PULAV",
+      "SALAD, ACHAR"
+    ],
+    "SNACKS": [
+      "BHEL / PANIPURI",
+      "TEA"
+    ],
+    "DINNER": [
+      "PANEER MASALA",
+      "ROTI",
+      "DAL FRY",
+      "NORMAL RICE",
+      "SALAD, ACHAR"
+    ]
+  },
+  "THURSDAY": {
+    "BREAKFAST": [
+      "ALOO PURI",
+      "BREAD, BUTTER, JAM",
+      "TEA",
+      "MILK",
+      "SPROUTS"
+    ],
+    "LUNCH": [
+      "SOYA WADI MASALA",
+      "MASUR DAL",
+      "RICE NORMAL",
+      "CHAPATI",
+      "SALAD, ACHAR, PAPAD",
+      "CURD"
+    ],
+    "SNACKS": [
+      "SANDVICH/BRAD UPMA",
+      "COFFEE/TEA"
+    ],
+    "DINNER": [
+      "MIX VEG / FULGOBHI AALU",
+      "DAL PALAK",
+      "CHAPATI",
+      "Rice",
+      "ACHAR, SALAD",
+      "GULAB JAMUN/KHEER"
+    ]
+  },
+  "FRIDAY": {
+    "BREAKFAST": [
+      "WADA, SAMBHAR, CHATANI",
+      "MILK",
+      "TEA",
+      "BREAD, BUTTER, JAM",
+      "FRUIT"
+    ],
+    "LUNCH": [
+      "SEV BHAJI",
+      "MOONG DAL",
+      "MUTTER RICE",
+      "CHAPATI",
+      "SALAD, ACHAR",
+      "CHACH"
+    ],
+    "SNACKS": [
+      "AALU BONDA/BREAD PAKODA",
+      "TEA",
+      "GREEN CHATNI"
+    ],
+    "DINNER": [
+      "CHOLE MASALA",
+      "DAL MAKHANI",
+      "RICE",
+      "ROTI",
+      "ACHAR, SALAD",
+      "CHAPATI"
+    ]
+  },
+  "SATURDAY": {
+    "BREAKFAST": [
+      "POHA, SEV, CURRY",
+      "MILK",
+      "TEA",
+      "BREAD, BUTTER, JAM",
+      "SPROUTS"
+    ],
+    "LUNCH": [
+      "RAJMA CURY",
+      "VEG BIRYANI",
+      "SALAD, ACHAR",
+      "DAL FRY",
+      "CHAPATI",
+      "VEG RAITA"
+    ],
+    "SNACKS": [
+      "PASTA / NOODLES",
+      "TEA"
+    ],
+    "DINNER": [
+      "LOBHIYA MASALA//AALU PALAK",
+      "DAL FRY",
+      "Rice",
+      "CHAPATI",
+      "SALAD, ACHAR"
+    ]
+  },
+  "SUNDAY": {
+    "BREAKFAST": [
+      "DOSA, SAMBHAR, CHATNI",
+      "TEA",
+      "BREAD, BUTTER, JAM",
+      "MILK"
+    ],
+    "LUNCH": [
+      "CHHOLE-PURI",
+      "RICE",
+      "MOONG DAL",
+      "SALAD, ACHAR",
+      "BOONDI RAITA"
+    ],
+    "SNACKS": [
+      "OREO BISCUIT/CHIPS/CREAM ROLL",
+      "COFFEE/TEA"
+    ],
+    "DINNER": [
+      "DAL FRY",
+      "KADHAI PANEER",
+      "JEERA RICE",
+      "ROTI",
+      "SALAD, ACHAR",
+      "RASMALAI / RASGULLA"
+    ]
+  }
+}
