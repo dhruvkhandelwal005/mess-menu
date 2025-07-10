@@ -1,0 +1,1928 @@
+{
+"First Year": {
+"Semester 1": {
+"CSE": [
+{
+"Course Code": "MAL 103",
+"Course Name": "Calculus for Engineers",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "BEL 102",
+"Course Name": "Elements of Electrical Engineering",
+"Type": "ES",
+"Credits": 4
+},
+{
+"Course Code": "BSL 101",
+"Course Name": "Applied Sciences",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL 101",
+"Course Name": "Computer Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 101",
+"Course Name": "Electronics Devices and Circuits",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "SAP 101",
+"Course Name": "Health, Sports & Safety",
+"Type": "HU",
+"Credits": 0
+},
+{
+"Course Code": "HUL 102",
+"Course Name": "Environmental Studies",
+"Type": "HU",
+"Credits": 2
+}
+],
+"CSA": [
+{
+"Course Code": "MAL105",
+"Course Name": "Calculus for Data Science",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL110",
+"Course Name": "Conversational AI",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL101",
+"Course Name": "Computer Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL111",
+"Course Name": "AI, Ethics and Society",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "ECL103",
+"Course Name": "Applied Electronics",
+"Type": "ES",
+"Credits": 4
+},
+{
+"Course Code": "HUL102",
+"Course Name": "Environmental Studies",
+"Type": "HU",
+"Credits": 0
+},
+{
+"Course Code": "SAP101",
+"Course Name": "Health, Sports and Safety",
+"Type": "HU",
+"Credits": 0
+}
+],
+"CSD": [
+{
+"Course Code": "MAL105",
+"Course Name": "Calculus for Data Science",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL109",
+"Course Name": "Introduction to Data and Analytics",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "HUL304",
+"Course Name": "Professional Ethics",
+"Type": "HU",
+"Credits": 3
+},
+{
+"Course Code": "CSL 101",
+"Course Name": "Computer Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "HUL 101",
+"Course Name": "Communication Skills",
+"Type": "HU",
+"Credits": 3
+},
+{
+"Course Code": "SAP 101",
+"Course Name": "Health, Sports & Safety",
+"Type": "HU",
+"Credits": 0
+},
+{
+"Course Code": "HUL 102",
+"Course Name": "Environmental Studies",
+"Type": "HU",
+"Credits": 0
+}
+],
+"CSH": [
+{
+"Course Code": "MAL103",
+"Course Name": "Calculus for Engineers",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL106",
+"Course Name": "Introduction to Gaming",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "CSL101",
+"Course Name": "Computer Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "BEL101",
+"Course Name": "Mechanics & Graphics",
+"Type": "ES",
+"Credits": 4
+},
+{
+"Course Code": "SAP101",
+"Course Name": "Health, Sports & Safety",
+"Type": "HU",
+"Credits": 0
+},
+{
+"Course Code": "HUL101",
+"Course Name": "Communication Skills",
+"Type": "HU",
+"Credits": 3
+},
+{
+"Course Code": "CSL107",
+"Course Name": "Introduction to HCI",
+"Type": "DC",
+"Credits": 2
+}
+],
+"ECE": [
+{
+"Course Code": "MAL 103",
+"Course Name": "Calculus for Engineers",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "BEL 102",
+"Course Name": "Elements of Electrical Engineering",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "BEL 101",
+"Course Name": "Mechanics & Graphics",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL 101",
+"Course Name": "Computer Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 101",
+"Course Name": "Electronic Devices and Circuits",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "HUL 101",
+"Course Name": "Communication Skills",
+"Type": "HU",
+"Credits": 3
+}
+],
+"ECI": [
+{
+"Course Code": "MAL 108",
+"Course Name": "Applied Mathematics for Engineers",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ECL 103",
+"Course Name": "Electronic Devices and Applications",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 104",
+"Course Name": "Introduction to IoT",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 101",
+"Course Name": "Computer Programming",
+"Type": "CSE",
+"Credits": 4
+},
+{
+"Course Code": "ECL 105",
+"Course Name": "Electrical Systems",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "HUL 102",
+"Course Name": "Environmental studies",
+"Type": "HU",
+"Credits": 2
+},
+{
+"Course Code": "SAP 101",
+"Course Name": "Health, sports and safety",
+"Type": "HU",
+"Credits": 0
+}
+]
+},
+"Semester 2": {
+"CSE": [
+{
+"Course Code": "MAL 104",
+"Course Name": "Matrices, Transform Techniques, and Differential Equations",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ECL 102",
+"Course Name": "Digital Electronics",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 102",
+"Course Name": "Data Structures",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 103",
+"Course Name": "Application Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "HUL 101",
+"Course Name": "Communication Skills",
+"Type": "HU",
+"Credits": 3
+},
+{
+"Course Code": "BEL 101",
+"Course Name": "Mechanics & Graphics",
+"Type": "ES",
+"Credits": 4
+}
+],
+"CSA": [
+{
+"Course Code": "MAL106",
+"Course Name": "Probability and Statistics",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "MAL107",
+"Course Name": "Introduction to Linear Algebra",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL102",
+"Course Name": "Data Structures",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL103",
+"Course Name": "Application Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "HUL 101",
+"Course Name": "Communication Skills",
+"Type": "HU",
+"Credits": 3
+},
+{
+"Course Code": "CSP201",
+"Course Name": "IT Workshop – I",
+"Type": "DC",
+"Credits": 2
+}
+],
+"CSD": [
+{
+"Course Code": "MAL107",
+"Course Name": "Introduction to Linear Algebra",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "MAL106",
+"Course Name": "Probability and Statistics",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL102",
+"Course Name": "Data Structures",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSP101",
+"Course Name": "Web Programming",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "ECL103",
+"Course Name": "Applied Electronics",
+"Type": "ES",
+"Credits": 4
+},
+{
+"Course Code": "HUL103",
+"Course Name": "Introduction to Entrepreneurship",
+"Type": "HU",
+"Credits": 3
+}
+],
+"CSH": [
+{
+"Course Code": "MAL104",
+"Course Name": "Matrices, Transform Techniques, and Differential Equations",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ASL103",
+"Course Name": "Applied Physics for Gaming",
+"Type": "BS",
+"Credits": 3
+},
+{
+"Course Code": "CSL102",
+"Course Name": "Data Structures",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL103",
+"Course Name": "Application Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL108",
+"Course Name": "Game Development Design Thinking",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "HUL102",
+"Course Name": "Environmental Studies",
+"Type": "HU",
+"Credits": 0
+},
+{
+"Course Code": "ECL103",
+"Course Name": "Applied Electronics",
+"Type": "ES",
+"Credits": 4
+}
+],
+"ECE": [
+{
+"Course Code": "MAL 104",
+"Course Name": "Matrices, Transform Techniques and Differential Equations",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ASL 101",
+"Course Name": "Applied Sciences",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ECL 102",
+"Course Name": "Digital Electronics",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 102",
+"Course Name": "Data Structures",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "HUL 102",
+"Course Name": "Environmental Studies",
+"Type": "HU",
+"Credits": 2
+},
+{
+"Course Code": "CSL 103",
+"Course Name": "Application Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "SAP 101",
+"Course Name": "Health, Sports and Safety",
+"Type": "HU",
+"Credits": 0
+}
+],
+"ECI": [
+{
+"Course Code": "ECL 106",
+"Course Name": "Digital System Design with HDL",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 102",
+"Course Name": "Data Structures",
+"Type": "CSE",
+"Credits": 4
+},
+{
+"Course Code": "ECL 107",
+"Course Name": "Analog IC and Fabrication",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 108",
+"Course Name": "IoT Workshop –I",
+"Type": "EC",
+"Credits": 2
+},
+{
+"Course Code": "MAL 201",
+"Course Name": "Numerical Methods and Probability Theory",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ECL 109",
+"Course Name": "Instrumentation Techniques",
+"Type": "EC",
+"Credits": 3
+},
+{
+"Course Code": "HUL 101",
+"Course Name": "Communication skills",
+"Type": "HU",
+"Credits": 3
+}
+]
+}
+},
+"Second Year": {
+"Semester 3": {
+"CSE": [
+{
+"Course Code": "MAL 201",
+"Course Name": "Numerical Methods and Probability Theory",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL 202",
+"Course Name": "Introduction to Object Oriented Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 203",
+"Course Name": "Computer System Organisation",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL 210",
+"Course Name": "Data Structures with Applications",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSP 201",
+"Course Name": "IT Workshop-I",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "ECL 202",
+"Course Name": "Microprocessors & Interfacing",
+"Type": "DC",
+"Credits": 4
+}
+],
+"CSA": [
+{
+"Course Code": "CSL202",
+"Course Name": "Introduction to Object Oriented Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL210",
+"Course Name": "Data Structure with Applications",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL204",
+"Course Name": "Discrete Maths and Graph Theory",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL216",
+"Course Name": "Foundations of Computing",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL203",
+"Course Name": "Computer System Organization",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "HUL103",
+"Course Name": "Introduction to Entrepreneurship",
+"Type": "HU",
+"Credits": 3
+},
+{
+"Course Code": "CSP203",
+"Course Name": "AI/ML Workshop - I",
+"Type": "DC",
+"Credits": 2
+}
+],
+"CSD": [
+{
+"Course Code": "MAL202",
+"Course Name": "Advanced Probability and Statistics",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "CSL 202",
+"Course Name": "Introduction to Object Oriented Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL204",
+"Course Name": "Discrete Maths and Graph Theory",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL210",
+"Course Name": "Data Structures with Applications",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSP205",
+"Course Name": "Tools and Practices for Data Science – I",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "CSL214",
+"Course Name": "Data Handling and Visualization",
+"Type": "DC",
+"Credits": 2
+}
+],
+"CSH": [
+{
+"Course Code": "CSL204",
+"Course Name": "Discrete Maths & Graph Theory",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL211",
+"Course Name": "Gamification for Learning",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL202",
+"Course Name": "Introduction to Object Oriented Programming",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL212",
+"Course Name": "Computer Architecture and Organization",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL210",
+"Course Name": "Data Structures With Applications",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSP201",
+"Course Name": "IT Workshop – I",
+"Type": "DC",
+"Credits": 2
+}
+],
+"ECE": [
+{
+"Course Code": "MAL 201",
+"Course Name": "Numerical Methods and Probability Theory",
+"Type": "BS",
+"Credits": 4
+},
+{
+"Course Code": "ECL 201",
+"Course Name": "Signals and Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 202",
+"Course Name": "Microprocessors and Interfacing",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 203",
+"Course Name": "Analog ICs",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 204",
+"Course Name": "Network Theory",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSP 201",
+"Course Name": "IT Workshop- I",
+"Type": "DC",
+"Credits": 2
+}
+],
+"ECI": [
+{
+"Course Code": "ECE 205",
+"Course Name": "Applied Signals and Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 202",
+"Course Name": "Introduction to Object Oriented Programming",
+"Type": "CSE",
+"Credits": 4
+},
+{
+"Course Code": "ECE 206",
+"Course Name": "Sensors and Transducers",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECE 207",
+"Course Name": "Workshop -II",
+"Type": "EC",
+"Credits": 2
+},
+{
+"Course Code": "CSL 217",
+"Course Name": "Programming Techniques for IoT",
+"Type": "CSE",
+"Credits": 3
+},
+{
+"Course Code": "ECE 208",
+"Course Name": "Electromagnetic Field Theory",
+"Type": "DC",
+"Credits": 3
+}
+]
+},
+"Semester 4": {
+"CSE": [
+{
+"Course Code": "CSL 205",
+"Course Name": "Design and Analysis of Algorithms",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 206",
+"Course Name": "Software Engineering",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL 207",
+"Course Name": "Operating Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 208",
+"Course Name": "Design Principles of Programming Languages",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 204",
+"Course Name": "Discrete Maths and Graph Theory",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSP 202",
+"Course Name": "IT Workshop-II",
+"Type": "DC",
+"Credits": 2
+}
+],
+"CSA": [
+{
+"Course Code": "CSL422",
+"Course Name": "Machine Learning",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL205",
+"Course Name": "Design and Analysis of Algorithms",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL206",
+"Course Name": "Software Engineering",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL207",
+"Course Name": "Operating Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL301",
+"Course Name": "Database Management Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL214",
+"Course Name": "Data Handling and Visualization",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "CSP204",
+"Course Name": "AI/ML Workshop – II",
+"Type": "DC",
+"Credits": 2
+}
+],
+"CSD": [
+{
+"Course Code": "CSL205",
+"Course Name": "Design and Analysis of Algorithms",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL207",
+"Course Name": "Operating Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL215",
+"Course Name": "Sensor Data Analytics",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL216",
+"Course Name": "Foundations of Computing",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL217",
+"Course Name": "Web Analytics",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSP206",
+"Course Name": "Tools and Practices for Data Science – II",
+"Type": "DC",
+"Credits": 2
+}
+],
+"CSH": [
+{
+"Course Code": "CSL205",
+"Course Name": "Design & Analysis of Algorithms",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL207",
+"Course Name": "Operating Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL432",
+"Course Name": "Human Computer Interaction",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL213",
+"Course Name": "Software Engineering and Game Testing",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "MAL201",
+"Course Name": "Numerical Methods and Probability Theory",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSP202",
+"Course Name": "IT Workshop – II",
+"Type": "DC",
+"Credits": 2
+}
+],
+"ECE": [
+{
+"Course Code": "ECL 301",
+"Course Name": "Digital Signal Processing",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 302",
+"Course Name": "Analog Communication",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 304",
+"Course Name": "Control Systems",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "ECL 305",
+"Course Name": "Electromagnetics",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "ECL 306",
+"Course Name": "Computer Architecture and Organisation",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSP 202",
+"Course Name": "IT Workshop- II",
+"Type": "DC",
+"Credits": 2
+}
+],
+"ECI": [
+{
+"Course Code": "ECE 307",
+"Course Name": "DSP and Applications",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "ECE 308",
+"Course Name": "Modelling for IoT",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "ECE 309",
+"Course Name": "Microprocessor and Microcontroller",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "ECE 310",
+"Course Name": "Communication Systems",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 301",
+"Course Name": "Database Management System",
+"Type": "CSE",
+"Credits": 4
+},
+{
+"Course Code": "ECE 311",
+"Course Name": "Workshop- III",
+"Type": "EC",
+"Credits": 2
+}
+]
+}
+},
+"Third Year": {
+"Semester 5": {
+"CSE": [
+{
+"Course Code": "CSL 301",
+"Course Name": "Database Management Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open Course - I",
+"Course Name": "Open Course - I",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSL 302",
+"Course Name": "Computer Networks",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 303",
+"Course Name": "Theory of Computation",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Elective-I",
+"Course Name": "Elective-I",
+"Type": "DE",
+"Credits": 3
+}
+],
+"CSA": [
+{
+"Course Code": "CSL421",
+"Course Name": "Artificial Intelligence",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL433",
+"Course Name": "Natural Language Processing",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL308",
+"Course Name": "Computer Vision Techniques",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL302",
+"Course Name": "Computer Networks",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open Course –I",
+"Course Name": "Open Course –I",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD301",
+"Course Name": "Mini Project – I",
+"Type": "DE",
+"Credits": 3
+}
+],
+"CSD": [
+{
+"Course Code": "CSL422",
+"Course Name": "Machine Learning",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL311",
+"Course Name": "Data Privacy and Security",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 301",
+"Course Name": "Database Management Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL421",
+"Course Name": "Artificial Intelligence",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL302",
+"Course Name": "Computer Networks",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSP301",
+"Course Name": "Tools and Practices for Data Science - III",
+"Type": "DC",
+"Credits": 2
+},
+{
+"Course Code": "CSD301",
+"Course Name": "Mini Project - I",
+"Type": "DE",
+"Credits": 3
+}
+],
+"CSH": [
+{
+"Course Code": "CSL302",
+"Course Name": "Computer Networks",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL431",
+"Course Name": "Computer Graphics",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL303",
+"Course Name": "Theory of Computation",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL306",
+"Course Name": "UI and UX Design",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL301",
+"Course Name": "Database Management Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open Course – I",
+"Course Name": "Open Course – I",
+"Type": "OC",
+"Credits": 3
+}
+],
+"ECE": [
+{
+"Course Code": "ECL 303",
+"Course Name": "Hardware Description Languages",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 307",
+"Course Name": "Waveguides and Antennas",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "ECL 308",
+"Course Name": "Embedded Systems",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 320",
+"Course Name": "Digital Communication",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open Course - I",
+"Course Name": "Open Course - I",
+"Type": "OC",
+"Credits": 3
+}
+],
+"ECI": [
+{
+"Course Code": "ECE 321",
+"Course Name": "Communication Network",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "ECE 322",
+"Course Name": "Embedded System Design",
+"Type": "EC",
+"Credits": 4
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 4
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 4
+},
+{
+"Course Code": "Open Course - I",
+"Course Name": "Open Course - I",
+"Type": "OC",
+"Credits": 3
+}
+]
+},
+"Semester 6": {
+"CSE": [
+{
+"Course Code": "CSL 304",
+"Course Name": "Compilers",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL 305",
+"Course Name": "Cryptography and Network Security",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open course-II",
+"Course Name": "Open course-II",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "Elective-II",
+"Course Name": "Elective-II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective –III",
+"Course Name": "Elective –III",
+"Type": "DE",
+"Credits": 4
+}
+],
+"CSA": [
+{
+"Course Code": "CSL454",
+"Course Name": "Reinforcement Learning",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL446",
+"Course Name": "Neural Networks and Deep Learning",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL317",
+"Course Name": "Parallel and Distributed Computing",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "Open Course – II",
+"Course Name": "Open Course – II",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSL318",
+"Course Name": "Optimization Techniques in ML",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSD302",
+"Course Name": "Mini Project – II",
+"Type": "DE",
+"Credits": 3
+}
+],
+"CSD": [
+{
+"Course Code": "CSL313",
+"Course Name": "Computer Vision and Deep Learning",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL444",
+"Course Name": "Big Data Analytics",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL436",
+"Course Name": "Data Mining and Warehousing",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL314",
+"Course Name": "Design Thinking",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "Open Course – I",
+"Course Name": "Open Course – I",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD301",
+"Course Name": "Mini Project - II",
+"Type": "DE",
+"Credits": 3
+}
+],
+"CSH": [
+{
+"Course Code": "CSL307",
+"Course Name": "Augmented & Virtual Reality",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL308",
+"Course Name": "Computer Vision Techniques",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "CSL309",
+"Course Name": "GPU Computing",
+"Type": "DC",
+"Credits": 3
+},
+{
+"Course Code": "CSL310",
+"Course Name": "2D & 3D game development",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open Course – II",
+"Course Name": "Open Course – II",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD301",
+"Course Name": "Mini Project",
+"Type": "DE",
+"Credits": 3
+}
+],
+"ECE": [
+{
+"Course Code": "ECL 311",
+"Course Name": "Wireless Communication",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "ECL 312",
+"Course Name": "CMOS Design",
+"Type": "DC",
+"Credits": 4
+},
+{
+"Course Code": "Open Course - II",
+"Course Name": "Open Course - II",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 4
+}
+],
+"ECI": [
+{
+"Course Code": "ECE 326",
+"Course Name": "IoT Security",
+"Type": "EC",
+"Credits": 3
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 4
+},
+{
+"Course Code": "Departmental Elective",
+"Course Name": "Departmental Elective",
+"Type": "DE",
+"Credits": 4
+},
+{
+"Course Code": "Fractal Course (DE) (1.1)",
+"Course Name": "Fractal Course (DE) (1.1)",
+"Type": "EC",
+"Credits": 1
+},
+{
+"Course Code": "Fractal Course (DE) (1.2)",
+"Course Name": "Fractal Course (DE) (1.2)",
+"Type": "EC",
+"Credits": 1
+},
+{
+"Course Code": "Fractal Course (DE) (1.3)",
+"Course Name": "Fractal Course (DE) (1.3)",
+"Type": "EC",
+"Credits": 1
+},
+{
+"Course Code": "ECD 405",
+"Course Name": "Minor Project",
+"Type": "EC",
+"Credits": 3
+},
+{
+"Course Code": "OC-II",
+"Course Name": "OC-II",
+"Type": "OC",
+"Credits": 3
+}
+]
+}
+},
+"Final Year": {
+"Semester 7": {
+"CSE": [
+{
+"Course Code": "CSD401",
+"Course Name": "Project",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective-IV",
+"Course Name": "Elective-IV",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective-V",
+"Course Name": "Elective-V",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective-VI",
+"Course Name": "Elective-VI",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective-VII",
+"Course Name": "Elective-VII",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Open Course III / MooC Course*",
+"Course Name": "Open Course III / MooC Course*",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+}
+],
+"CSA": [
+{
+"Course Code": "CSD 401",
+"Course Name": "Project",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective – I",
+"Course Name": "Elective – I",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – II",
+"Course Name": "Elective – II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – III",
+"Course Name": "Elective – III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "MooC Course / Open Course – III",
+"Course Name": "MooC Course / Open Course – III",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+}
+],
+"CSD": [
+{
+"Course Code": "CSD 401",
+"Course Name": "Project",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective – I",
+"Course Name": "Elective – I",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective –II",
+"Course Name": "Elective –II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – III",
+"Course Name": "Elective – III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "MooC Course / Open Course – II",
+"Course Name": "MooC Course / Open Course – II",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+}
+],
+"CSH": [
+{
+"Course Code": "CSD 401",
+"Course Name": "Project",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective – I",
+"Course Name": "Elective – I",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – II",
+"Course Name": "Elective – II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – III",
+"Course Name": "Elective – III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – IV",
+"Course Name": "Elective – IV",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "MooC Course / Open Course III",
+"Course Name": "MooC Course / Open Course III",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+}
+],
+"ECE": [
+{
+"Course Code": "Elective - III",
+"Course Name": "Elective - III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – IV",
+"Course Name": "Elective – IV",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective - V",
+"Course Name": "Elective - V",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – VI",
+"Course Name": "Elective – VI",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "OPEN / MOOC course",
+"Course Name": "OPEN / MOOC course",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "ECD 403",
+"Course Name": "Project",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "ECD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+}
+],
+"ECI": [
+{
+"Course Code": "OPEN / MOOC course",
+"Course Name": "OPEN / MOOC course",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "DE",
+"Course Name": "DE",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "DE",
+"Course Name": "DE",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "ECD 406",
+"Course Name": "Project",
+"Type": "DC",
+"Credits": 8
+},
+{
+"Course Code": "ECD 407",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+}
+]
+},
+"Semester 8": {
+"CSE": [
+{
+"Course Code": "CSD402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "CSD401/CSD403",
+"Course Name": "Project / Internship - II",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective-IV",
+"Course Name": "Elective-IV",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective-V",
+"Course Name": "Elective-V",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective-VI",
+"Course Name": "Elective-VI",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective-VII",
+"Course Name": "Elective-VII",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Open Course III / MooC Course*",
+"Course Name": "Open Course III / MooC Course*",
+"Type": "OC",
+"Credits": 3
+}
+],
+"CSA": [
+{
+"Course Code": "CSD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective – I",
+"Course Name": "Elective – I",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – II",
+"Course Name": "Elective – II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – III",
+"Course Name": "Elective – III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "MooC Course / Open Course – III",
+"Course Name": "MooC Course / Open Course – III",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "CSD 401/CSD 403",
+"Course Name": "Project / Internship - II",
+"Type": "DE",
+"Credits": 8
+}
+],
+"CSD": [
+{
+"Course Code": "CSD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "CSD 401/CSD 403",
+"Course Name": "Project / Internship - II",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective – I",
+"Course Name": "Elective – I",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – II",
+"Course Name": "Elective – II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – III",
+"Course Name": "Elective – III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "MooC Course / Open Course – II",
+"Course Name": "MooC Course / Open Course – II",
+"Type": "OC",
+"Credits": 3
+}
+],
+"CSH": [
+{
+"Course Code": "CSD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "CSD 401/CSD 403",
+"Course Name": "Project / Internship – II",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective – I",
+"Course Name": "Elective – I",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – II",
+"Course Name": "Elective – II",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – III",
+"Course Name": "Elective – III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – IV",
+"Course Name": "Elective – IV",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "MooC Course / Open Course III",
+"Course Name": "MooC Course / Open Course III",
+"Type": "OC",
+"Credits": 3
+}
+],
+"ECE": [
+{
+"Course Code": "ECD 402",
+"Course Name": "Internship",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "ECD 403/ECD 404",
+"Course Name": "Project/ Internship-II",
+"Type": "DE",
+"Credits": 8
+},
+{
+"Course Code": "Elective –III",
+"Course Name": "Elective –III",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – IV",
+"Course Name": "Elective – IV",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective - V",
+"Course Name": "Elective - V",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "Elective – VI",
+"Course Name": "Elective – VI",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "OPEN / MOOC course",
+"Course Name": "OPEN / MOOC course",
+"Type": "OC",
+"Credits": 3
+}
+],
+"ECI": [
+{
+"Course Code": "ECD 407",
+"Course Name": "Internship",
+"Type": "DC",
+"Credits": 8
+},
+{
+"Course Code": "ECD 406/ECD 407",
+"Course Name": "Project/ Internship -II",
+"Type": "DC",
+"Credits": 8
+},
+{
+"Course Code": "OPEN / MOOC course",
+"Course Name": "OPEN / MOOC course",
+"Type": "OC",
+"Credits": 3
+},
+{
+"Course Code": "DE",
+"Course Name": "DE",
+"Type": "DE",
+"Credits": 3
+},
+{
+"Course Code": "DE",
+"Course Name": "DE",
+"Type": "DE",
+"Credits": 3
+}
+]
+}
+}
+}
